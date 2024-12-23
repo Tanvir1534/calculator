@@ -1,5 +1,3 @@
-# Simple Calculator in Python with Exception Handling
-
 # Function to perform addition
 def add(x, y):
     return x + y
